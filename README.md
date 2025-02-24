@@ -1,6 +1,6 @@
 # OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference
 
- Xiangyu Zhao*, Shengyuan Ding*, [Zicheng Zhang](https://zzc-1998.github.io/), [Haian Huang](https://github.com/hhaAndroid), Maosong Cao, Weiyun Wang, [Jiaqi Wang](https://myownskyw7.github.io/), Xinyu Fang, [Wenhai Wang](https://whai362.github.io/), [Guangtao Zhai](https://faculty.sjtu.edu.cn/zhaiguangtao/zh_CN/index.htm), Hua Yang, [Haodong Duan](https://kennymckormick.github.io/), [Kai Chen](https://chenkai.site/)
+ [Xiangyu Zhao](https://scholar.google.com/citations?user=eqFr7IgAAAAJ&hl=zh-TW&oi=ao)*, Shengyuan Ding*, [Zicheng Zhang](https://zzc-1998.github.io/), [Haian Huang](https://github.com/hhaAndroid), [Maosong Cao](https://scholar.google.com/citations?hl=zh-TW&user=Tpm-jYYAAAAJ), [Weiyun Wang](https://scholar.google.com/citations?hl=zh-TW&user=GJYzDkYAAAAJ), [Jiaqi Wang](https://myownskyw7.github.io/), [Xinyu Fang](https://scholar.google.com/citations?hl=zh-TW&user=QZk6nZ8AAAAJ), [Wenhai Wang](https://whai362.github.io/), [Guangtao Zhai](https://faculty.sjtu.edu.cn/zhaiguangtao/zh_CN/index.htm), Hua Yang, [Haodong Duan](https://kennymckormick.github.io/), [Kai Chen](https://chenkai.site/)
 
   <p align="center">
     <a href=''>
