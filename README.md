@@ -30,7 +30,7 @@
 
 ## 📖 Introduction
 <div align="center">
-  <img src="images/statistic.png" width="100%">
+  <img src="images/statistic2.png" width="100%">
 </div>
 
 In this work, we introduce three key contributions, **OmniAlign-V SFT dataset**, **OmniAlign-V-DPO dataset**, and **MM-AlignBench**:
