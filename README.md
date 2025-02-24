@@ -3,7 +3,7 @@
  Xiangyu Zhao*, Shengyuan Ding*, [Zicheng Zhang](https://zzc-1998.github.io/), [Haian Huang](https://github.com/hhaAndroid), Maosong Cao, Weiyun Wang, [Jiaqi Wang](https://myownskyw7.github.io/), Xinyu Fang, [Wenhai Wang](https://whai362.github.io/), [Guangtao Zhai](https://faculty.sjtu.edu.cn/zhaiguangtao/zh_CN/index.htm), Hua Yang, [Haodong Duan](https://kennymckormick.github.io/), [Kai Chen](https://chenkai.site/)
 
   <p align="center">
-    <a href='https://arxiv.org/abs/2406.17770'>
+    <a href=''>
       <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
     </a>
     <a href='https://phoenixz810.github.io/OmniAlign-V/'>
