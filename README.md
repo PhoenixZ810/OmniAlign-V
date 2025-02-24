@@ -189,7 +189,7 @@ torchrun --nproc_per_node 8\
     --reuse \
 ```
 
-## Citation
+<!-- ## Citation
 If you find OmniAlign-V useful, please cite using this BibTeX:
 ```bibtex
 @article{zhao2024mg,
@@ -198,7 +198,7 @@ If you find OmniAlign-V useful, please cite using this BibTeX:
   journal={arXiv preprint arXiv:2406.17770},
   year={2024}
 }
-```
+``` -->
 ## Acknowledgement
 - [LLaVA](https://github.com/haotian-liu/LLaVA): Base model structure.
 - [InternVL](https://github.com/OpenGVLab/InternVL): InternVL structure.
