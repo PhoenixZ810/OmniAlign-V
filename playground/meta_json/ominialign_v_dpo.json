@@ -1,0 +1,50 @@
+{
+    "OmniAlignV_DPO_knowledge": {
+        "root": "playground/data/",
+        "annotation": "playground/dpo/new_reject/DPO_knowledge_gqa9k_art1500_cc3m30k_fixed.jsonl",
+        "data_augment": false,
+        "repeat_time": 1,
+        "length": 40804,
+        "data_type": "knowledge"
+    },
+    "OmniAlignV_DPO_ins_follow": {
+        "root": "playground/data/",
+        "annotation": "playground/dpo/new_reject/DPO_Knowledge_instruct40k_fixed.jsonl",
+        "data_augment": false,
+        "repeat_time": 1,
+        "length": 40262,
+        "data_type": "ins_follow"
+    },
+    "OmniAlignV_DPO_creation": {
+        "root": "playground/data/",
+        "annotation": "playground/dpo/new_reject/DPO_Creation10k_fixed.jsonl",
+        "data_augment": false,
+        "repeat_time": 1,
+        "length": 9697,
+        "data_type": "creation"
+    },
+    "OmniAlignV_DPO_chart": {
+        "root": "playground/data/",
+        "annotation": "playground/dpo/new_reject/DPO_Chartqa_gen_consist_refine11k_fixed.jsonl",
+        "data_augment": false,
+        "repeat_time": 1,
+        "length": 11158,
+        "data_type": "chart"
+    },
+    "OmniAlignV_DPO_diagram": {
+        "root": "playground/data/textbookqa_merge",
+        "annotation": "playground/dpo/new_reject/DPO_Tqa_qwen_8k_gpt_fixed.jsonl",
+        "data_augment": false,
+        "repeat_time": 1,
+        "length": 8385,
+        "data_type": "diagram"
+    },
+    "OmniAlignV_DPO_poster": {
+        "root": "playground/data/",
+        "annotation": "playground/dpo/new_reject/DPO_Infovqa_single_gpt_fixed.jsonl",
+        "data_augment": false,
+        "repeat_time": 1,
+        "length": 23035,
+        "data_type": "poster"
+    }
+}

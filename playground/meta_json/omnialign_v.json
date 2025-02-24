@@ -1,0 +1,66 @@
+{
+    "OmniAlign_V_knowledge": {
+        "root": "playground/data",
+        "annotation": "playground/data/OmniAlign_V/knowledge.jsonl",
+        "data_augment": false,
+        "repeat_time": 1,
+        "length": 40813,
+        "data_type": "knowledge"
+    },
+    "OmniAlign_V_inferential": {
+        "root": "playground/data",
+        "annotation": "playground/data/OmniAlign_V/inferential.jsonl",
+        "data_augment": false,
+        "repeat_time": 1,
+        "length": 37117,
+        "data_type": "inferential"
+    },
+    "OmniAlign_V_detail": {
+        "root": "playground/data",
+        "annotation": "playground/data/OmniAlign_V/detail.jsonl",
+        "data_augment": false,
+        "repeat_time": 1,
+        "length": 35313,
+        "data_type": "detail"
+    },
+    "OmniAlign_V_ins_follow": {
+        "root": "playground/data",
+        "annotation": "playground/data/OmniAlign_V/ins_follow.jsonl",
+        "data_augment": false,
+        "repeat_time": 1,
+        "length": 40231,
+        "data_type": "ins_follow"
+    },
+    "OmniAlign_V_creation": {
+        "root": "playground/data",
+        "annotation": "playground/data/OmniAlign_V/creation.jsonl",
+        "data_augment": false,
+        "repeat_time": 1,
+        "length": 9698,
+        "data_type": "creation"
+    },
+    "OmniAlign_V_chart": {
+        "root": "playground/data",
+        "annotation": "playground/data/OmniAlign_V/chart.jsonl",
+        "data_augment": false,
+        "repeat_time": 1,
+        "length": 11160,
+        "data_type": "chart"
+    },
+    "OmniAlign_V_diagram": {
+        "root": "playground/data",
+        "annotation": "playground/data/OmniAlign_V/diagram.jsonl",
+        "data_augment": false,
+        "repeat_time": 1,
+        "length": 8389,
+        "data_type": "diagram"
+    },
+    "OmniAlign_V_Poster": {
+        "root": "playground/data",
+        "annotation": "playground/data/OmniAlign_V/poster.jsonl",
+        "data_augment": false,
+        "repeat_time": 1,
+        "length": 23068,
+        "data_type": "poster"
+    }
+}
