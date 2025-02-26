@@ -25,7 +25,7 @@
 </div>
 
 ## 🎉 News
-- **\[2025/02\]** Our [paper](https://arxiv.org/abs/2406.17770), [OmniAlign-V](https://huggingface.co/datasets/PhoenixZ/OmniAlign-V), [OmniAlign-V-DPO](https://huggingface.co/datasets/PhoenixZ/OmniAlign-V-DPO), [Checkpoints]() are all released.
+- **\[2025/02\]** Our [paper](https://arxiv.org/abs/2502.18411), [OmniAlign-V](https://huggingface.co/datasets/PhoenixZ/OmniAlign-V), [OmniAlign-V-DPO](https://huggingface.co/datasets/PhoenixZ/OmniAlign-V-DPO), [Checkpoints]() are all released.
 - **\[2025/02\]** Our **MM-AlignBench** is now supported in [VLMEvalKit](https://github.com/open-compass/VLMEvalKit), enabling quick and efficient evaluation of MLLMs.
 
 ## 📖 Introduction
