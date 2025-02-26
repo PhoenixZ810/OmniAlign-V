@@ -3,7 +3,7 @@
  [Xiangyu Zhao](https://scholar.google.com/citations?user=eqFr7IgAAAAJ&hl=zh-TW&oi=ao)\*, Shengyuan Ding\*, [Zicheng Zhang](https://zzc-1998.github.io/), [Haian Huang](https://github.com/hhaAndroid), [Maosong Cao](https://scholar.google.com/citations?hl=zh-TW&user=Tpm-jYYAAAAJ), [Weiyun Wang](https://scholar.google.com/citations?hl=zh-TW&user=GJYzDkYAAAAJ), [Jiaqi Wang](https://myownskyw7.github.io/), [Xinyu Fang](https://scholar.google.com/citations?hl=zh-TW&user=QZk6nZ8AAAAJ), [Wenhai Wang](https://whai362.github.io/), [Guangtao Zhai](https://faculty.sjtu.edu.cn/zhaiguangtao/zh_CN/index.htm), Hua Yang, [Haodong Duan](https://kennymckormick.github.io/), [Kai Chen](https://chenkai.site/)
 
   <p align="center">
-    <a href=''>
+    <a href='https://arxiv.org/abs/2502.18411'>
       <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
     </a>
     <a href='https://phoenixz810.github.io/OmniAlign-V/'>
@@ -189,16 +189,16 @@ torchrun --nproc_per_node 8\
     --reuse \
 ```
 
-<!-- ## Citation
+## Citation
 If you find OmniAlign-V useful, please cite using this BibTeX:
 ```bibtex
-@article{zhao2024mg,
-  title={MG-LLaVA: Towards Multi-Granularity Visual Instruction Tuning},
-  author={Zhao, Xiangyu and Li, Xiangtai and Duan, Haodong and Huang, Haian and Li, Yining and Chen, Kai and Yang, Hua},
-  journal={arXiv preprint arXiv:2406.17770},
+@article{zhao2025omnialignvenhancedalignmentmllms,
+  title={OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference},
+  author={Xiangyu Zhao and Shengyuan Ding and Zicheng Zhang and Haian Huang and Maosong Cao and Weiyun Wang and Jiaqi Wang and Xinyu Fang and Wenhai Wang and Guangtao Zhai and Haodong Duan and Hua Yang and Kai Chen},
+  journal={arXiv preprint arXiv:2502.18411},
   year={2024}
 }
-``` -->
+```
 ## Acknowledgement
 - [LLaVA](https://github.com/haotian-liu/LLaVA): Base model structure.
 - [InternVL](https://github.com/OpenGVLab/InternVL): InternVL structure.
