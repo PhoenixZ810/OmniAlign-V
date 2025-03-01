@@ -25,8 +25,9 @@
 </div>
 
 ## 🎉 News
+- **\[2025/03\]** **MM-AlignBench** is now available on [HuggingFace](https://huggingface.co/datasets/PhoenixZ/MM-AlignBench) for a quick preview and exploration.
 - **\[2025/02\]** Our [Paper](https://arxiv.org/abs/2502.18411), [OmniAlign-V-SFT](https://huggingface.co/datasets/PhoenixZ/OmniAlign-V), [OmniAlign-V-DPO](https://huggingface.co/datasets/PhoenixZ/OmniAlign-V-DPO), [Checkpoints](https://huggingface.co/collections/PhoenixZ/omnialign-v-67b591ac7aaae267db319971) are all released.
-- **\[2025/02\]** Our [**MM-AlignBench**](https://huggingface.co/datasets/PhoenixZ/MM-AlignBench) is now supported in [VLMEvalKit](https://github.com/open-compass/VLMEvalKit), enabling quick and efficient evaluation of MLLMs.
+- **\[2025/02\]** Our **MM-AlignBench** is now supported in [VLMEvalKit](https://github.com/open-compass/VLMEvalKit), enabling quick and efficient evaluation of MLLMs.
 
 ## 📖 Introduction
 <div align="center">
