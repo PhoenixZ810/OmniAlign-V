@@ -15,7 +15,7 @@
     <a href='https://huggingface.co/datasets/PhoenixZ/OmniAlign-V-DPO'>
       <img src='https://img.shields.io/badge/HF-DPO_Data-red?style=flat&logo=huggingface' alt='Datasets'>
     </a>
-    <a href='https://github.com/open-compass/VLMEvalKit'>
+    <a href='https://huggingface.co/datasets/PhoenixZ/MM-AlignBench'>
       <img src='https://img.shields.io/badge/MMAlignBench-blue?style=flat&logo=9gag' alt='MMAlignBench'>
     </a>
   </p>
@@ -25,8 +25,8 @@
 </div>
 
 ## 🎉 News
-- **\[2025/02\]** Our [Paper](https://arxiv.org/abs/2502.18411), [OmniAlign-V-SFT](https://huggingface.co/datasets/PhoenixZ/OmniAlign-V), [OmniAlign-V-DPO](https://huggingface.co/datasets/PhoenixZ/OmniAlign-V-DPO), [Checkpoints]((https://huggingface.co/collections/PhoenixZ/omnialign-v-67b591ac7aaae267db319971) are all released.
-- **\[2025/02\]** Our **MM-AlignBench** is now supported in [VLMEvalKit](https://github.com/open-compass/VLMEvalKit), enabling quick and efficient evaluation of MLLMs.
+- **\[2025/02\]** Our [Paper](https://arxiv.org/abs/2502.18411), [OmniAlign-V-SFT](https://huggingface.co/datasets/PhoenixZ/OmniAlign-V), [OmniAlign-V-DPO](https://huggingface.co/datasets/PhoenixZ/OmniAlign-V-DPO), [Checkpoints](https://huggingface.co/collections/PhoenixZ/omnialign-v-67b591ac7aaae267db319971) are all released.
+- **\[2025/02\]** Our [**MM-AlignBench**](https://huggingface.co/datasets/PhoenixZ/MM-AlignBench) is now supported in [VLMEvalKit](https://github.com/open-compass/VLMEvalKit), enabling quick and efficient evaluation of MLLMs.
 
 ## 📖 Introduction
 <div align="center">
