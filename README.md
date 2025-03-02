@@ -75,10 +75,10 @@ MM-AlignBench is now supported in [VLMEvalKit](https://github.com/open-compass/V
   conda activate omnialign-env
   ```
 
-- Install XTuner from source
+- Install OmniAlign-V from source
 
   ```shell
-  git clone https://github.com/PhoenixZ810/MG-LLaVA.git
+  git clone https://github.com/PhoenixZ810/OmniAlign-V.git
   cd OmniAlign-V
   pip install -e '.[all]'
   ```
